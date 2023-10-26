@@ -11,9 +11,9 @@
 </p>
 
 
-- 🌱 I’m currently learning **React Native, React, Swift**
+- 🌱 I’m currently learning **React Native, React, Swift, Kotlin, Java, Firebase**
 
-- 💬 Ask me about **React Native, React,**
+- 💬 Ask me about **React Native, React, Firebase, Java**
 
 - 📫 How to reach me **erdogdualiahmet@outlook.com**
 
