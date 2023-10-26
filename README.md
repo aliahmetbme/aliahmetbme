@@ -1,30 +1,65 @@
-### Hi there 👋
+</div>
 
-<h1 align="center">Hi 👋, I'm ALİ AHMET ERDOĞDU</h1>
-<h3 align="center">A passionate mobile developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliahmetbme&label=Profile%20views&color=0e75b6&style=flat" alt="aliahmetbme" /> </p>
+<h1 align="center">Hi 👋, I'm Ali Ahmet Erdoğdu</h1>
+<h3 align="center">A passionate Mobile developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliahmetbme" alt="aliahmetbme" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+#
 - 🌱 I’m currently learning **React Native, React, Swift**
 
 - 💬 Ask me about **React Native, React,**
 
 - 📫 How to reach me **erdogdualiahmet@outlook.com**
+#
+ 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Languages and Tools:</h3>
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=react" title="React">
+<img src="https://skillicons.dev/icons?i=javascript" title="Javascript">
+<img src="https://skillicons.dev/icons?i=firebase" title="Typescript">
+<img src="https://skillicons.dev/icons?i=matlab" title="Nodejs">
+<img src="https://skillicons.dev/icons?i=git" title="Express">
+<img src="https://skillicons.dev/icons?i=swift" title="Mysql">
+<img src="https://skillicons.dev/icons?i=java" title="Java">
+<img src="https://skillicons.dev/icons?i=python" title="Php">
+<img src="https://skillicons.dev/icons?i=cs" title="Cs">
+<img src="https://skillicons.dev/icons?i=postman" title="Postman">
+<img src="https://skillicons.dev/icons?i=dart" title="Postman">
+<img src="https://skillicons.dev/icons?i=flutter" title="Postman">
+<img src="https://skillicons.dev/icons?i=redux" title="Postman">
+<img src="https://skillicons.dev/icons?i=github" title="Postman">
+<img src="https://skillicons.dev/icons?i=latex" title="Postman">
+<img src="https://skillicons.dev/icons?i=kotlin" title="Postman">
+
+ 
+
+ ##
+
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/ali-ahmet-erdogdu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ali-ahmet-erdogdu/" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/ali-ahmet-erdogdu/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<a href="erdogdualiahmet@outlook.com" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliahmetbme&show_icons=true&locale=en&layout=compact" alt="aliahmetbme" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aliahmetbme&show_icons=true&locale=en" alt="aliahmetbme" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliahmetbme&" alt="aliahmetbme" /></p>
+<div align="center">
+
+
+<img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=aliahmetbme&show_icons=true&locale=en&layout=compact&theme=react" alt="aliahmetbme" height="150" />
+
+<img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=aliahmetbme&show_icons=true&locale=en&theme=react" alt="aliahmetbme" />
+ 
+
+<p><img align="center" height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=aliahmetbme&theme=react" alt="aliahmetbme" /></p>
+
+</div>
+
+###
