@@ -24,7 +24,6 @@
 <img src="https://skillicons.dev/icons?i=swift" title="Mysql">
 <img src="https://skillicons.dev/icons?i=java" title="Java">
 <img src="https://skillicons.dev/icons?i=python" title="Php">
-<img src="https://skillicons.dev/icons?i=cs" title="Cs">
 <img src="https://skillicons.dev/icons?i=postman" title="Postman">
 <img src="https://skillicons.dev/icons?i=dart" title="Postman">
 <img src="https://skillicons.dev/icons?i=flutter" title="Postman">
