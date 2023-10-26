@@ -1,18 +1,28 @@
 </div>
 
-
 <h1 align="center">Hi 👋, I'm Ali Ahmet Erdoğdu</h1>
 <h3 align="center">A passionate Mobile developer from Turkey</h3>
 
 
-#
+<p >
+</br>
+
+  <img alt="Donut Code" align="right" width="330" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+</p>
+
+
 - 🌱 I’m currently learning **React Native, React, Swift**
 
 - 💬 Ask me about **React Native, React,**
 
 - 📫 How to reach me **erdogdualiahmet@outlook.com**
-#
- 
+
+ </br>
+</br>
+</br>
+</br>
+</br>
+
 
 <h3 align="left"> Languages and Tools:</h3>
 <p align="left"> 
