@@ -11,7 +11,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **React Native, React, Swift, Kotlin, Java, Firebase**
+- 🌱 I’m currently learning **Flutter, Swift, React Native, Firebase**
 
 - 💬 Ask me about **React Native, React, Firebase, Java**
 
